@@ -88,7 +88,7 @@ export default function Footer() {
 
           <section className="mb-4">
             <p>
-              Lorem ipsum, dolor sit amet consectetur adipisicing elit. Voluptate, rerum ducimus commodi quos provident aperiam est ab soluta deserunt repudiandae.
+              By this email id provided by you . We will be in touch with you by updating you about our upcoming event and we will provide you all the details related to that .
             </p>
           </section>
 
